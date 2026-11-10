@@ -22,4 +22,4 @@ Healthcare Stroke Prediction Dataset (Kaggle)
 2. Run all cells
 
 ## Author
-[Your Full Name]
+[Mohamed mzahim]
